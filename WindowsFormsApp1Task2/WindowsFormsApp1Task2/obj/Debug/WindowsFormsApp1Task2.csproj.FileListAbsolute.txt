@@ -1,0 +1,10 @@
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\bin\Debug\WindowsFormsApp1Task2.exe.config
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\bin\Debug\WindowsFormsApp1Task2.exe
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\bin\Debug\WindowsFormsApp1Task2.pdb
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.csprojAssemblyReference.cache
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.Form1.resources
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.Properties.Resources.resources
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.csproj.GenerateResource.cache
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.csproj.CoreCompileInputs.cache
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.exe
+C:\Users\Rositsa Ruseva\source\repos\WindowsFormsApp1Task2\WindowsFormsApp1Task2\obj\Debug\WindowsFormsApp1Task2.pdb
